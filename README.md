@@ -1,2 +1,3 @@
 # Stocks-Screener-very-basic-v1
-Very generic stocks screener, Created with the help of AI
+Find stocks from major indices and screen them based on fundamentals. That's it 
+https://stockscreenerv2.streamlit.app
